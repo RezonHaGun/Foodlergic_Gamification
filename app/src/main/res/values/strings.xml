@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FoodLergic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Selamat_Datang_di_FoodLergic">Selamat datang di FoodLergic</string>
+    <string name="belum_punya_akun_RegisterNow">Doesn’t Have an Account ?</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="title_signup_page">Sign Up Now</string>
+    <string name="name">Nama</string>
+    <string name="signup">SignUp</string>
+    <string name="RegisterNow">RegisterNow!</string>
+    <string name="Scan">Scan My Food</string>
+    <string name="camera">Scan from Camera</string>
+    <string name="gallery">Scan from Galery</string>
+    <string name="Check">Check</string>
+    <string name="Predict">Predict</string>
+    <string name="Result" />
+    <string name="fill_all_fields">Please Fill all the required fields</string>
+    <string name="loading" />
+    <string name="registration_success">akun anda telah teregister</string>
+    <string name="registration_failed">akun anda belum terregister</string>
+    <string name="email_exists">email</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="login_failed">Login Gagal</string>
+    <string name="network_error">jaringan bermasalah</string>
+    <string name="user_profile">User Profile</string>
+    <string name="my_lergic">MyLergic</string>
+    <string name="profile_image">My Profile\n</string>
+    <string name="alergic">Title</string>
+
+    <string name="error_name_required">Mohon isi nama Anda.</string>
+    <string name="error_email_required">Mohon isi alamat email Anda.</string>
+    <string name="error_invalid_email">Masukkan email dengan format yang benar (contoh: user@example.com).</string>
+    <string name="error_password_required">Mohon isi password Anda.</string>
+    <string name="error_password_length">Password harus memiliki minimal 6 karakter.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="get_started">Try Now !</string>
+    <string name="book_title">title</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ScanMyFood"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        android:title="@string/Scan" />
+
+    <item
+        android:id="@+id/MyLergic"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/my_lergic" />
+
+    <item
+        android:id="@+id/UserProfile"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="@string/user_profile" />
+
+</menu>
